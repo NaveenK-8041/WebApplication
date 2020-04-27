@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="202972" started-at="2020-04-27T20:15:17 IST" finished-at="2020-04-27T20:18:40 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="202972" started-at="2020-04-27T20:15:17 IST" finished-at="2020-04-27T20:18:40 IST">
+      <class name="endToEndBigBasketFlow.EndToEndBigBasketFlow.BigBasketTest">
+        <test-method status="PASS" signature="initiation()[pri:0, instance:endToEndBigBasketFlow.EndToEndBigBasketFlow.BigBasketTest@d44fc21]" name="initiation" is-config="true" duration-ms="27897" started-at="2020-04-27T20:15:17 IST" finished-at="2020-04-27T20:15:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initiation -->
+        <test-method status="PASS" signature="productDetailsConfirmation()[pri:0, instance:endToEndBigBasketFlow.EndToEndBigBasketFlow.BigBasketTest@d44fc21]" name="productDetailsConfirmation" duration-ms="170372" started-at="2020-04-27T20:15:45 IST" finished-at="2020-04-27T20:18:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- productDetailsConfirmation -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:endToEndBigBasketFlow.EndToEndBigBasketFlow.BigBasketTest@d44fc21]" name="tearDown" is-config="true" duration-ms="4322" started-at="2020-04-27T20:18:35 IST" finished-at="2020-04-27T20:18:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- endToEndBigBasketFlow.EndToEndBigBasketFlow.BigBasketTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
